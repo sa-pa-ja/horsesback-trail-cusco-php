@@ -1,2 +1,5 @@
-# horsesback-trail-cusco-php
-In this practice, we will explore the use of PHP within the WordPress environment to develop custom functionalities.
+# Basic syntax
+
+## php **tags**
+When PHP processes a file, it recognizes the opening and closing tags, `<?php` and `?php` to define the boundaries of PHP code execution.
+
