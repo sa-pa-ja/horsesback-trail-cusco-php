@@ -27,11 +27,28 @@ echo "If you want to serve PHP code in XHTML or XML documents, use these tags";
 
 Everything outside of a pair of opening and closing tags id ignored by the PHP parser which allows PHP files to have mixed content.
 
-```php 
+```php
 <p>This is going to be ignored by PHP and displayed by the browser.</p>
 <?php echo "While this is going to be parsed"; ?>
 <p>This will also be ignored by PHP and displayed by the browser</p>
 
 ```
 
+This works as expected, because when th PHP interpreter hits the `?>` closing tags, it simply starts outputting whatever it finds (except for the immediately following newline) until it hits another opening tag unless in the middle of a conditional statement i which case the interpreter will determine the outcome of the conditional before making a decision of what to skip over.
 
+Using structure with conditions
+
+**Example #2 Advanced escaping using conditions**
+
+```php
+<?php if ($expression == true): ?>
+This will be show of the expression is true.
+<?php else: ?>
+Otherwise this will show
+<?php endif;?>
+```
+
+> **Note:**
+> If PHP is embeded within XML or XHTML the normal PHP `<?php ?>` must be used to remain compliant with the standards.
+
+## Instruction separation
