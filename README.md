@@ -23,4 +23,15 @@ echo "If you want to serve PHP code in XHTML or XML documents, use these tags";
 > **Note**
 > As short tags can be disabled it is recommended to only use the normal tags (`<?php?>` and `<?=?>`) to maximize compatibility.
 
+**Escaping from HTML**
+
+Everything outside of a pair of opening and closing tags id ignored by the PHP parser which allows PHP files to have mixed content.
+
+```php 
+<p>This is going to be ignored by PHP and displayed by the browser.</p>
+<?php echo "While this is going to be parsed"; ?>
+<p>This will also be ignored by PHP and displayed by the browser</p>
+
+```
+
 
