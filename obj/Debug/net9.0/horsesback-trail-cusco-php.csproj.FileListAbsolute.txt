@@ -1,0 +1,15 @@
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\bin\Debug\net9.0\horsesback-trail-cusco-php.exe
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\bin\Debug\net9.0\horsesback-trail-cusco-php.deps.json
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\bin\Debug\net9.0\horsesback-trail-cusco-php.runtimeconfig.json
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\bin\Debug\net9.0\horsesback-trail-cusco-php.dll
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\bin\Debug\net9.0\horsesback-trail-cusco-php.pdb
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\obj\Debug\net9.0\horsesback-trail-cusco-php.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\obj\Debug\net9.0\horsesback-trail-cusco-php.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\obj\Debug\net9.0\horsesback-trail-cusco-php.AssemblyInfo.cs
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\obj\Debug\net9.0\horsesback-trail-cusco-php.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\obj\Debug\net9.0\horsesback-trail-cusco-php.sourcelink.json
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\obj\Debug\net9.0\horsesback-trail-cusco-php.dll
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\obj\Debug\net9.0\refint\horsesback-trail-cusco-php.dll
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\obj\Debug\net9.0\horsesback-trail-cusco-php.pdb
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\obj\Debug\net9.0\horsesback-trail-cusco-php.genruntimeconfig.cache
+C:\Users\DELL\Downloads\horsesback-trail-cusco-php\obj\Debug\net9.0\ref\horsesback-trail-cusco-php.dll
